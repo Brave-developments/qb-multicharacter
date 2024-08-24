@@ -35,7 +35,7 @@ local Translations = {
         characters_count = "characters",
       
          --Setup Characters
-        default_image = 'https://cdn.discordapp.com/attachments/1194309035483213874/1212109706957557801/image.png?ex=65f0a422&is=65de2f22&hm=df2543e4eca7b34a6f5a890445ee5d55783db8c9551c025ee84fc0f7b7812b45&', --You can 'assets/yourimage.png' or any put "any link you want"
+        default_image = 'https://cdn.discordapp.com/attachments/1274330975266144371/1276848221746102294/removebg.png?ex=66cb0512&is=66c9b392&hm=61100c3d688307ea8e5fae68a9710a839540173641b8227ce8deae6f32676961&', --You can 'assets/yourimage.png' or any put "any link you want"
        create_new_character = "Create new character",
        default_right_image = 'assets/image2.png', --You can 'assets/yourimage.png' or any put "any link you want"
 
