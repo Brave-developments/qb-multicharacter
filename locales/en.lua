@@ -11,9 +11,6 @@ local Translations = {
         ["citizenid"] = "Citizen ID",
         ["citizenid_help"] = "The Citizen ID of the character you want to delete",
 
-        --Loaded
-       
-
         -- /logout
         ["logout_description"] = "Logout of Character (Admin Only)",
 
@@ -22,7 +19,6 @@ local Translations = {
     },
 
     misc = {
-        ["succes_loaded"] = '^2[qb-core]^7 %{value} has succesfully loaded!',
         ["droppedplayer"] = "You have disconnected from QBCore"
     },
 
